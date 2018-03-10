@@ -6,7 +6,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = python -msphinx
 SPHINXPROJ    = Lightning
 SOURCEDIR     = .
-BUILDDIR      = ../../builddocs
+BUILDDIR      = ../../gh-pages
 PDFBUILDDIR   = /tmp
 PDF           = ../manual.pdf
 
